@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eshiiiac
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python projects and learning
+- 👀 I’m interested in cloud computing and backend
+- 🌱 I’m currently learning Go
+- 💞️ I’m looking to collaborate on Go lang projects and learning
 - ⚡ Fun fact: no fun in life :(
 
 <!---
